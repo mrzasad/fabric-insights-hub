@@ -84,4 +84,9 @@ pip install -r requirements.txt
 - **Operations** to monitor and manage data refreshes
 - **Business Users** to visualize insights without writing code
 
-### Architecture
+<img width="1823" height="807" alt="Screenshot 2026-05-22 012405" src="https://github.com/user-attachments/assets/c1c2ce1e-0fcd-4a5f-af2d-bfb1994aad96" />
+<img width="1893" height="777" alt="Screenshot 2026-05-22 012434" src="https://github.com/user-attachments/assets/46f11e5a-2285-4955-a1e1-f1b077c2fa88" />
+<img width="1908" height="801" alt="Screenshot 2026-05-22 012504" src="https://github.com/user-attachments/assets/6c7460de-1cfc-4e13-82c9-71950106c8fc" />
+<img width="1382" height="797" alt="Screenshot 2026-05-22 012634" src="https://github.com/user-attachments/assets/f9820f61-f7e3-401b-b16c-9151829fdb70" />
+<img width="1452" height="662" alt="Screenshot 2026-05-22 012646" src="https://github.com/user-attachments/assets/06c56ffb-441b-46e1-a1b5-7ef297bc0167" />
+<img width="1857" height="768" alt="Screenshot 2026-05-22 012750" src="https://github.com/user-attachments/assets/092f60b7-5d8b-4b29-95d9-8e8a71ca5859" />
