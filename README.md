@@ -1,5 +1,5 @@
 
-# 🚀 Fabric Insights Hub
+#  Fabric Insights Hub
 
 <div align="center">
 
