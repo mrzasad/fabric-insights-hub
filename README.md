@@ -1,18 +1,29 @@
-# Microsoft Fabric Sample Analytics App
+# 🚀 Fabric Insights Hub
 
-A simple, functional demo application showcasing Microsoft Fabric integration with Streamlit.
+<div align="center">
 
-## Features
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+![Azure](https://img.shields.io/badge/Azure-Integrated-blue.svg)
+![Fabric](https://img.shields.io/badge/MS_Fabric-Compatible-purple.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-- 📊 Interactive sales analytics dashboard
-- 🧠 Statistical anomaly detection (IQR method)
-- 📈 Trend analysis with moving averages
-- 👥 Customer segmentation and analytics
-- 📥 Data export capabilities
-- ☁️ Optional Fabric live connection
+**Advanced analytics portal for Microsoft Fabric - Semantic model exploration, anomaly detection, and operational monitoring powered by Streamlit**
 
-## Quick Start
+[Features](#-features) • [Quick Start](#-quick-start) • [Examples](#-examples) • [Documentation](#-documentation) • [Contributing](#-contributing)
 
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
+</div>
+
+---
+
+## 📖 Overview
+
+Fabric Insights Hub is a Streamlit-powered analytics portal that bridges the gap between Microsoft Fabric's powerful backend and user-friendly data exploration. It provides an intuitive interface for:
+
+- **Data Teams** to discover and explore semantic models
+- **Analysts** to run advanced statistical analysis
+- **Operations** to monitor and manage data refreshes
+- **Business Users** to visualize insights without writing code
+
+### Architecture
