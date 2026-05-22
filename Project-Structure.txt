@@ -1,0 +1,9 @@
+fabric-sample-app/
+├── app.py                 # Main Streamlit application
+├── requirements.txt       # Python dependencies
+├── .env.example          # Environment variables template
+├── utils/
+│   ├── __init__.py
+│   ├── fabric_client.py  # Fabric connection manager
+│   └── sample_data.py    # Sample data generator for testing
+└── README.md
